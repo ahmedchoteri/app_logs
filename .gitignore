@@ -1,0 +1,19 @@
+# Misc
+.DS_Store
+*.log
+
+# Dart/Flutter tooling
+.dart_tool/
+.packages
+.pub/
+build/
+pubspec.lock
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
